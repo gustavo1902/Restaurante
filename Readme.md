@@ -1,17 +1,15 @@
-Progresso do projeto
+# Projeto Restaurante
 
-Configuração do ambiente de desenvolvimento:
-<style>
-    h1{
-        color: red;
-    }
-</style>
+Consiste na criação de um sistema para um restaurante que atende e faz entregas, utilizando tecnologias como Java Spring, HTML, CSS e MariaDB:
 
-Criação das entidades: <h1>X<\h1>
-Criação dos controllers e views: <h1>X<\h1>
-Criação das operações de CRUD: <h1>X<\h1>
-Teste: X
-Implementação com banco de dados: <h1>X<\h1>
 
+Progresso:
+
+- [x] Configuração do ambiente de desenvolvimento
+- [ ] Criação das entidades
+- [ ] Criação dos controllers e views
+- [ ] Implementação das operações de CRUD
+- [ ] Testes automatizados
+- [ ] Integração com banco de dados
 
 
